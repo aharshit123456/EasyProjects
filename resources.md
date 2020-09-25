@@ -51,3 +51,10 @@ Only understand the basic concepts do the rest by making projects and using Goog
 [Essense of Linear Algebra -Grant Sanderson](https://www.youtube.com/watch?v=kYB8IZa5AuE&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=3)<br/>
 [Game Theory - William Sapniel](https://www.youtube.com/playlist?list=PLKI1h_nAkaQoDzI4xDIXzx6U2ergFmedo)<br/>
 [Game Theory - Mathhew (Coursera)](https://www.coursera.org/learn/game-theory-1#syllabus)<br/>
+
+### Multivariable Calculus and Differential Equations
+
+[Multivariable Calc - Khan Academy](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7)<br/>
+[Differential Equations - UFL/UCF](https://www.youtube.com/playlist?list=PLO1y6V1SXjjO-wHEYaM-2yyNU28RqEyLX)<br/>
+[Differential Equations - Gilber Strang and Cleve Moler (OCW)](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG)<br/>
+
