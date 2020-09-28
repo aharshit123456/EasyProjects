@@ -9,7 +9,7 @@
 [Programming Basics](https://www.youtube.com/watch?v=zOjov-2OZ0E) - Max Time : 1 day <br/>
 [Python through projects](https://www.youtube.com/user/edurekaIN) - Take your time <br/>
 [Python By Making 5 Games](https://www.youtube.com/watch?v=XGf2GcyHPhc) - Max Time : 14 days <br/>
-[Java (Take the Python courses after this if you directly want to continue with only Java)](https://www.youtube.com/watch?v=eIrMbAQSU34)
+[Java (Take the Python courses after this if you directly want to continue with only Java)](https://www.youtube.com/watch?v=eIrMbAQSU34)<br/>
 [Android Development - 11 hr video](https://www.youtube.com/watch?v=fis26HvvDII)<br/>
 
 Only understand the basic concepts do the rest by making projects and using Google and StackOverFlow to learn any extra tools you run across. Have fun while doing it. Don't hesitate to Ctrl C - Ctrl V the code which is important for your program but you don't understand. You will understand it once you come back to it in some other project or maybe the same.
@@ -45,8 +45,8 @@ Only understand the basic concepts do the rest by making projects and using Goog
 [Abstract Algebra - Socratica](https://www.youtube.com/watch?v=8A84sA1YuPw&list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6&index=9)<br/>
 [Abstract Algebra - Bill Klinney](https://www.youtube.com/watch?v=V6sDNqH7syc&list=PLmU0FIlJY-Mn3Pt-r5zQ_-Ar8mAnBZTf2&index=10)<br/>
 [Cryptography - Christof Parr](https://www.youtube.com/watch?v=vnpZXJL6QCQ)<br/>
-[Computational Linear Algebra - Rachel Thomas](https://www.youtube.com/watch?v=8iGzBMboA0I&list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY&index=1)<br/>
-[Material Science - Crystallography - Prof. Rajesh Prasad](https://www.youtube.com/watch?v=KMcsjCXfLQw&list=PLfIFNJ1DPG4nRLP5qsXn1UWTgAyysZE6-&index=2&pbjreload=101)<br/>
+[Computational Linear Algebra - Rachel Thomas](https://www.youtube.com/watch?v=8iGzBMboA0I&list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY&index=1)<!--- <br/>
+[Material Science - Crystallography - Prof. Rajesh Prasad](https://www.youtube.com/watch?v=KMcsjCXfLQw&list=PLfIFNJ1DPG4nRLP5qsXn1UWTgAyysZE6-&index=2&pbjreload=101)<br/> -->
 [Tensor Calculus](https://www.youtube.com/playlist?list=PLSuQRd4LfSUTmb_7IK7kAzxJtU2tpmEd3)<br/>
 [Essense of Linear Algebra -Grant Sanderson](https://www.youtube.com/watch?v=kYB8IZa5AuE&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=3)<br/>
 [Game Theory - William Sapniel](https://www.youtube.com/playlist?list=PLKI1h_nAkaQoDzI4xDIXzx6U2ergFmedo)<br/>
