@@ -39,7 +39,7 @@ Only understand the basic concepts do the rest by making projects and using Goog
 [Psych101 Sawyer](https://learn.saylor.org/course/view.php?id=12)<br/>
 [BIO101 Sawyer](https://learn.saylor.org/course/view.php?id=349)<br/>
 [Mathematicall Biology](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7lnGZ7fkn503y_7U4rrJ-Se)<br/>
-
+[Basic Cognitive Science](https://www.youtube.com/playlist?list=PL8fZjZDhcFsAK5Nbe0n6ZR4OHYADH7UzM)<br/>
 
 ### Discrete Mathematics (Currently Following)
 [Abstract Algebra - Socratica](https://www.youtube.com/watch?v=8A84sA1YuPw&list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6&index=9)<br/>
